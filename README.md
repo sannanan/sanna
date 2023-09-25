@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanna.
 - 👀 I’m interested in AI / Machine Learning.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning C/C++.
 - 💞️ I’m looking forward to the new projects.
 - 📫 How to reach me nann.sannaa@gmail.com
 
