@@ -4,7 +4,7 @@
 
 
 
-- 👀 I’m interested in AI / Machine Learning / Game.
+- 👀 I’m interested in AI / Machine Learning / Robotic.
 - 🌱 I’m currently learning Python & Java.
 - 📫 How to reach me nann.sannaa@gmail.com 
 
